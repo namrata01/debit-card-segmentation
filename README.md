@@ -1,3 +1,3 @@
 # debit-card-segmentation
 
-This is the code to find the outliers using clustering in financial dataset.
+This is the code to find outliers using clustering in financial dataset.
